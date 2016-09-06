@@ -7,7 +7,7 @@ git config --global push.default matching
 ```
 
 -----
-git pushするとwarningが出るよう担った
+git pushするとwarningが出るようになった
 
 ```
 warning: push.default is unset; its implicit value is changing in
